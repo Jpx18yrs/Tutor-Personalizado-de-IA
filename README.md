@@ -1,6 +1,6 @@
 # Tutor-Personalizado-de-IA
 ## 1r Mini Proyecto: 
-Es un tutor personalizado para cualquier tema del que gustes hablar, busque que tuviera un tono Amigable, Comprensivo Y Que Sonara más que todo, Humano. Busque en este proyecto el meter una API para poder familiarizarme con todo lo relacionado a la IA, para en un futuro hacer cosas mas complejas con la IA :).   
+Es un tutor personalizado para cualquier tema del que gustes hablar, busque que tuviera un tono amigable, comprensivo y que sonara más que todo, humano. Busque en este proyecto el meter una API para poder familiarizarme con todo lo relacionado a la IA, para en un futuro hacer cosas mas complejas con la IA :).   
 
   
   
