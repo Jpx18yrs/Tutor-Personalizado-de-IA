@@ -19,6 +19,8 @@ Es un tutor personalizado para cualquier tema del que gustes hablar, busque que 
 
 # Iniciar Chat De IA 🤖
 1-Abre tu IDE Y mueve el archivo .py al editor de codigo de tu IDE y en la linea 4 donde dice "TU_API_KEY_AQUI" Pon tu API Key que sacaste de Google AI studio.
-1-En la terminal escribe "Python (Dejas un espacio y arrastras el archivo TutorPersonalizado.py a la terminal)"
-2- ¡Inicia la conversacion! 
+
+2-En la terminal escribe "Python (Dejas un espacio y arrastras el archivo TutorPersonalizado.py a la terminal)"
+
+3- ¡Inicia la conversacion! 
 Nota: Es un Proyecto en etapas tempranas, iré dando actualizaciones con el paso del tiempo, agregando mas funciones y una interfaz grafica junto con mas ideas que tengo. Cualquier duda o sugerencia, escribanme en mi Discord: prksenymor3
