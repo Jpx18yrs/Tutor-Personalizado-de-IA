@@ -35,7 +35,7 @@ REGLAS DE PERSONALIDAD Y COMPORTAMIENTO:
 configuracion = types.GenerateContentConfig(
 system_instruction= instruccion_personalidad)
 
-client.chats.create(
+chat = client.chats.create(
 model="gemini-3.6-flash",
 config= configuracion)
 
@@ -43,9 +43,9 @@ print("---Chat Iniciado Jjj escribe 'Salir/salir' Para terminar el Chat---")
 
 while True:
       usuario_input = input("Méxicano Promedio: ")
-      if usuario_input.lower() : "Salir/salir" 
-      print ("Que tengas un Buen día, aunque, es de día aun ¿?")
-      break
-response = chat.send_mesagge(usuario_input)
-print(f"\nAmigo/Tutor: {response.text}\n")
+      if usuario_input.lower() == "Salir/salir":
+          print("Que tengas un Buen día, aunque, es de día aun ¿?")
+          break
+      response = chat.send_message(usuario_input)
+      print(f"\nCompañero: {response.text}\n")
 # Faltan algunas notas para explicar para que sirve cada cosa pero por el momento esta bien.
